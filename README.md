@@ -85,6 +85,15 @@ None
 
 None
 
+## Grading
+
+If you would like the points from this exercise to replace a previous exercise or count toward a project or the midterm, indicate that here:
+
+Which Exercise should this replace?
+*or* 
+Which project should these points be applied toward?
+*or*
+Should the points from this exercise be applied to the midterm?
 
 ## Created by 
 
